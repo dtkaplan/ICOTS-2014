@@ -26,5 +26,5 @@ When you want to open a template, use the File/New File/RMarkdown menu item and 
 ### Sharing your Rmd results:
 
 * Press the "Publish" button in the RStudio Previewer.
-* Login to [RPubs](www.rpubs.org) as user `ICOTS-MOSAIC`.  You'll need the password, which has been written on the board.
+* Login to [RPubs](www.rpubs.org) as user `ICOTS-MOSAIC`.  You'll need the password, which has been written on the board. (ICOTS2014)
 * Fill in a description if you like. It's helpful if you **include your name** in the title.  This will make it easier to find documents. 
