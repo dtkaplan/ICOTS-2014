@@ -1,0 +1,19 @@
+---
+title: "Resampling using the mosaic package"
+author: "DTK, NJH, RJP"
+date: "July 12, 2014"
+output: html_document
+---
+
+```{r include=FALSE}
+# Don't change this block!
+require(mosaic)
+require(dplyr)
+```
+
+## Sampling
+
+Use runners.
+
+## Resampling
+
