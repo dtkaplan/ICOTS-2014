@@ -1,0 +1,33 @@
+---
+title: "Project MOSAIC Workshop at ICOTS 2014"
+author: "DTK, NJH, RJP"
+date: "July 12, 2014"
+output: html_document
+---
+
+
+
+## Using R Markdown
+
+We encourage instructors to make class notes incorporating R.  The RMarkdown system provides an easy way to do this.
+
+We have asked you to copy this file to your system and open it in the RStudio editor.  If you have done this, you'll see a text file with a file extension of `.Rmd` containing lines like    
+
+    ## Using R Markdown
+
+It can be helpful to work directly from the `.Rmd` file from the RStudio editor in class.  It provides a convenient place to store the commands you plan to use in class.
+
+Even better, you can **compile**, or "knit", the file into HTML suitable for web publication.  Press the "Knit HTML" button in the RStudio editor An HTML document will be create that contain the R commands, the output they generate, and any narrative you care to include.  (All of this text is narrative.) 
+
+
+## Publishing 
+
+How might you distribute notes and other files to your students?  There are several possibilities.  
+
+For today, within the workshop, we will use a very simple tool called RPubs.
+
+### Using RPubs
+
+After compiling your document, look at it in the RStudio previewer.  There is a button labelled "Publish."  Push it!
+
+
