@@ -5,7 +5,7 @@ Title: My first collection of functions
 Author: Daniel Kaplan <kaplan@macalester.edu>, along with
   Nick Horton and Randall Pruim
 Maintainer: Daniel Kaplan <kaplan@macalester.edu>
-Depends: R (>= 3.1), mosaic
+Depends: R (>= 3.0), mosaic
 Suggests: MASS
 Description: Files for the Project MOSAIC workshop at ICOTS 2014
 License: GPL version 2 or newer
