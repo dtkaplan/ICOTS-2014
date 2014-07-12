@@ -13,7 +13,7 @@ require(dplyr)
 
 ## Sampling
 
-Use runners.
+Use runners. 
 
 ## Resampling
 
